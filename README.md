@@ -14,7 +14,7 @@
  🌱 I’m currently learning **C++**
 
 💬 Ask me about **Node.js, Python... or anything !**
-
+</div>
 
 
  <br>
