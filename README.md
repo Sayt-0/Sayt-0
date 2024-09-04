@@ -37,13 +37,11 @@
   <br>
   <h2>⚙️ Programming Tools ⚙️</h2>
   <br>
-  <a href="https://github.com/"><img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" style="max-width: 100%;"></a>
-  <a href="https://nodejs.org/" rel="nofollow"><img alt="nodeJS" width="50px" src="https://camo.githubusercontent.com/4fb2f39cda4cbb7459099af76046b24ed029d26319800e1d97aea996bbd2d11d/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6e6f64652d6a732d312d313137343933352e706e67" data-canonical-src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" style="max-width: 100%;"></a>
-  <a href="https://git-scm.com/" rel="nofollow"><img alt="git" width="50px" src="https://camo.githubusercontent.com/66ccd173e26d78fabb82d52b1dd683aa4ec16242de4d72527f2961e0115fe4ff/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f706e675f6c6f676f5f766563746f722f6769742d69636f6e2e706e67" data-canonical-src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" style="max-width: 100%;"></a>
-  <a href="https://visualstudio.microsoft.com/" rel="nofollow"><img alt="vstudio" width="50px" src="https://camo.githubusercontent.com/0d3f2a4f347149e1557efcc73f2f53c3c994985260fdfc405f32c64141657673/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f76697375616c2d73747564696f2d323031332d6c6f676f2d7376672d766563746f722e737667" data-canonical-src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-2013-logo-svg-vector.svg" style="max-width: 100%;"></a>
-  <a href="https://code.visualstudio.com/" rel="nofollow"><img alt="vscode" width="50px" src="https://camo.githubusercontent.com/366c675475ba6f1a5fca068fa916dc43f3eb0a975f9c78c1500c7096cf3bdd8d/68747470733a2f2f692e696d6775722e636f6d2f41397974774f362e706e67" data-canonical-src="https://i.imgur.com/A9ytwO6.png" style="max-width: 100%;"></a>
-  
-  
+  <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
+  <img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
+  <img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>
+  <img alt="vstudio" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-2013-logo-svg-vector.svg"/>
+  <img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>
   
 </div>
 
