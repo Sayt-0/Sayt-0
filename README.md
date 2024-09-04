@@ -3,7 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7C5&center=true&width=435&lines=Hey+!+%F0%9F%91%8B;I'm+Sayt0+!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate student from France !</h3>
+<h3 align="center">A student from France !</h3>
 <br>
 
 
