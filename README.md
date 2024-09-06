@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **C++**
 
-💬 Ask me about **Node.js, Python... or anything !**
+💬 Ask me about **Node.js, HTML... or anything !**
 </div>
 
 
