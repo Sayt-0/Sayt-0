@@ -50,9 +50,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayt-0&theme=react" alt="GitHub Streak" /></a>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Sayt-0&show_icons=true&theme=react" alt="GitHub Streak" /></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayt-0&layout=compact&theme=react" alt="GitHub Streak" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=Sayt-0&show_icons=true&theme=radical" alt="GitHub Streak" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayt-0&langs_count=8&theme=radical" alt="GitHub Streak" /></a>
   
   
  
