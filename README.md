@@ -44,7 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<img align="center" alt="My Top languages used" src="https://github-readme-stats-sayt0s-projects.vercel.app/api/top-langs/?username=Sayt-0&exclude_repo=github-readme-stats,gameLauncher,NSI-TP3,TropicoBot&layout=compact&langs_count=8&theme=radical" />
+<img align="center" alt="My Top languages used" src="https://github-readme-stats-sayt0s-projects.vercel.app/api/top-langs/?username=Sayt-0&exclude_repo=github-readme-stats*,NSI-TP3,TropicoBot,gameLauncher&layout=compact&langs_count=8&theme=radical" />
 <img align="center" alt="My Github Stats" src="https://github-readme-stats-sayt0s-projects.vercel.app/api?username=Sayt-0&count_private=true&show_icons=true&theme=radical" />
 </div>
 
