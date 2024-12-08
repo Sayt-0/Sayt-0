@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning **C++**
 
-💬 Ask me about **Node.js, HTML... or anything !**
+💬 Ask me about **Python, HTML... or anything !**
 
 <br>
 <img src="https://media1.tenor.com/m/rRb8DN4unb0AAAAC/makima-chainsaw-man.gif" style="width: 70%;"/>
