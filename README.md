@@ -16,9 +16,7 @@
 
 <br>
 
----
-
-## 💻 Discord Profile
+### 💻 Discord Profile
 
 <div align="center">
 
@@ -26,37 +24,37 @@
 
 <br>
 
-**My website :** [sayto.dev](https://sayto.dev)
+<h3>🌐 <a href="https://sayto.dev">sayto.dev</a></h3>
 
 </div>
 
----
+<br>
 
-## 🌍 Languages
+### 🌍 Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ocaml,html,css,mysql&theme=dark" />
 </div>
 
----
+<br>
 
-## ⚙️ Tools & Environments
+### ⚙️ Tools & Environments
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,vim&theme=dark" />
 </div>
 
----
+<br>
 
-## 🖥️ Operating Systems
+### 🖥️ Operating Systems
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,arch,nix,windows&theme=dark" />
 </div>
 
----
+<br>
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sayt0s-projects.vercel.app/api/top-langs/?username=Sayt-0&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical" />
