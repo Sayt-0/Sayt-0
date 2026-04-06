@@ -1,76 +1,76 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7C5&center=true&width=435&lines=Hey+!+%F0%9F%91%8B;I'm+Sayt0+!" alt="Typing SVG" /></a>
-</h1>
-
-<h3 align="center">A student from France !</h3>
-<br>
-
 <div align="center">
-    
-🔭 I am passionate about **cybersecurity**
-
-🌱 I’m currently learning **C++**
-
-💬 Ask me about **Python, HTML... or anything !**
-
-<br>
-<img src="https://media1.tenor.com/m/rRb8DN4unb0AAAAC/makima-chainsaw-man.gif" style="width: 70%;"/>
-</div>
-
-<br>
-<h2 align="center">🌍 Languages 🌍</h2>
-<br>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><br>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-    <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1AF7C5&height=230&section=header&text=sayt0&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=EPITA%20Student%20%E2%80%A2%20Developer&descAlignY=65&descAlign=50&descColor=ffffff&descSize=18" />
 </div>
 
 <div align="center">
-  <br>
-  <h2>⚙️ Programming Tools ⚙️</h2>
-  <br>
-  <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
-  <img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
-  <img alt="vstudio" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-2013-logo-svg-vector.svg"/>
-  <img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1AF7C5&center=true&vCenter=true&width=500&lines=Hey+!+%F0%9F%91%8B+I'm+Sayt0+!" alt="Typing SVG" />
+  </a>
 </div>
 
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align="center">
-<img align="center" alt="My Top languages used" src="https://github-readme-stats-sayt0s-projects.vercel.app/api/top-langs/?username=Sayt-0&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical" />
-<img align="center" alt="My Github Stats" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=Sayt-0&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://media1.tenor.com/m/rRb8DN4unb0AAAAC/makima-chainsaw-man.gif" width="45%" style="border-radius:12px"/>
 </div>
 
+<br>
 
+---
 
+## 💻 Discord Profile
 
+<div align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1097351194046898246?borderRadius=12px&theme=dark&idleMessage=Idle)](https://discord.com/users/1097351194046898246)
 
+<br>
 
+**My website :** [sayto.dev](https://sayto.dev)
 
+</div>
 
+---
 
+## 🌍 Languages
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ocaml,html,css,mysql&theme=dark" />
+</div>
 
+---
 
+## ⚙️ Tools & Environments
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,vim&theme=dark" />
+</div>
 
+---
 
+## 🖥️ Operating Systems
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu,arch,nix,windows&theme=dark" />
+</div>
 
+---
 
+## ⚡ GitHub Stats
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-sayt0s-projects.vercel.app/api/top-langs/?username=Sayt-0&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=sayt0&count_private=true&show_icons=true&theme=radical" />
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayt0&theme=radical&hide_border=false" />
+</div>
 
+<br>
 
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1AF7C5&height=100&section=footer" />
+</div>
