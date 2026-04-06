@@ -16,7 +16,7 @@
 
 <br>
 
-### 💻 Discord Profile
+## 💻 Discord Profile
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 <br>
 
-### 🌍 Languages
+## 🌍 Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ocaml,html,css,mysql&theme=dark" />
@@ -38,7 +38,7 @@
 
 <br>
 
-### ⚙️ Tools & Environments
+## ⚙️ Tools & Environments
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,vim&theme=dark" />
@@ -46,7 +46,7 @@
 
 <br>
 
-### 🖥️ Operating Systems
+## 🖥️ Operating Systems
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,arch,nix,windows&theme=dark" />
@@ -54,7 +54,7 @@
 
 <br>
 
-### ⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sayt0s-projects.vercel.app/api/top-langs/?username=Sayt-0&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical" />
