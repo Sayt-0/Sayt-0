@@ -58,7 +58,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sayt0s-projects.vercel.app/api/top-langs/?username=Sayt-0&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical" />
-  <img width="48%" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=sayt0&count_private=true&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-peach-ten-65.vercel.app/api?username=sayt-0&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 <br>
