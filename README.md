@@ -24,8 +24,6 @@
 
 <br>
 
-<h3>🌐 <a href="https://sayto.dev">sayto.dev</a></h3>
-
 </div>
 
 <br>
