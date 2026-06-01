@@ -10,12 +10,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/rRb8DN4unb0AAAAC/makima-chainsaw-man.gif" width="45%" style="border-radius:12px"/>
-</div>
-
-<br>
-
 ## 💻 Discord Profile
 
 <div align="center">
