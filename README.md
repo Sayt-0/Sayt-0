@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1AF7C5&height=230&section=header&text=sayt0&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=EPITA%20Student%20%E2%80%A2%20Building%20tools%20for%20AI%20agents&descAlignY=65&descAlign=50&descColor=ffffff&descSize=18" />
+  <img alt="sayt0, EPITA student building tools for AI agents" src="https://capsule-render.vercel.app/api?type=waving&color=1AF7C5&height=230&section=header&text=sayt0&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=EPITA%20Student%20%E2%80%A2%20Building%20tools%20for%20AI%20agents&descAlignY=65&descAlign=50&descColor=ffffff&descSize=18" />
 </div>
 
 <div align="center">
@@ -13,27 +13,19 @@
 ## 👋 About me
 
 - 🎓 Student at EPITA, Paris
-- 🐳 Former intern at Docker (3 months) on [docker-agent](https://github.com/docker/docker-agent), where I still contribute: [150+ merged PRs](https://github.com/docker/docker-agent/pulls?q=is%3Apr+author%3ASayt-0+is%3Amerged) (runtime, TUI, MCP, Claude Code harness)
+- 🐳 Former intern at Docker (3 months), mainly on [docker-agent](https://github.com/docker/docker-agent), where I still contribute: [150+ merged PRs](https://github.com/docker/docker-agent/pulls?q=is%3Apr+author%3ASayt-0+is%3Amerged) (runtime, TUI, MCP, Claude Code harness)
 - 🤖 I build tools to run and steer coding agents, and the agents themselves
-
-<br>
-
-## 💻 Discord Profile
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1097351194046898246?borderRadius=12px&theme=dark&idleMessage=Idle)](https://discord.com/users/1097351194046898246)
-
-<br>
-
-</div>
 
 <br>
 
 ## 🌍 Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,ts,js,python,ocaml,bash,html,css,mysql&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cgo%2Cts%2Cjs%2Cpython%2Cocaml%2Cbash%2Chtml%2Ccss%2Cmysql&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cgo%2Cts%2Cjs%2Cpython%2Cocaml%2Cbash%2Chtml%2Ccss%2Cmysql&theme=light" />
+    <img alt="C, C++, Go, TypeScript, JavaScript, Python, OCaml, Bash, HTML, CSS, MySQL" src="https://skillicons.dev/icons?i=c,cpp,go,ts,js,python,ocaml,bash,html,css,mysql&theme=dark" />
+  </picture>
 </div>
 
 <br>
@@ -41,7 +33,11 @@
 ## ⚙️ Tools & Environments
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nodejs,githubactions,sqlite,postgres,latex,visualstudio,vscode,vim&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Clinux%2Cnodejs%2Cgithubactions%2Csqlite%2Cpostgres%2Clatex%2Cvisualstudio%2Cvscode%2Cvim&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Clinux%2Cnodejs%2Cgithubactions%2Csqlite%2Cpostgres%2Clatex%2Cvisualstudio%2Cvscode%2Cvim&theme=light" />
+    <img alt="Git, GitHub, Docker, Linux, Node.js, GitHub Actions, SQLite, PostgreSQL, LaTeX, Visual Studio, VS Code, Vim" src="https://skillicons.dev/icons?i=git,github,docker,linux,nodejs,githubactions,sqlite,postgres,latex,visualstudio,vscode,vim&theme=dark" />
+  </picture>
 </div>
 
 <br>
@@ -49,7 +45,11 @@
 ## 🖥️ Operating Systems
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,arch,nix,apple,windows&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ubuntu%2Carch%2Cnix%2Capple%2Cwindows&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ubuntu%2Carch%2Cnix%2Capple%2Cwindows&theme=light" />
+    <img alt="Ubuntu, Arch Linux, NixOS, macOS, Windows" src="https://skillicons.dev/icons?i=ubuntu,arch,nix,apple,windows&theme=dark" />
+  </picture>
 </div>
 
 <br>
@@ -57,18 +57,20 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="48%" src="./cards/top-langs.svg" />
-  <img width="48%" src="./cards/stats.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayt-0/Sayt-0/main/cards/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayt-0/Sayt-0/main/cards/top-langs-light.svg" />
+    <img width="48%" alt="Most used languages" src="https://raw.githubusercontent.com/Sayt-0/Sayt-0/main/cards/top-langs-dark.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayt-0/Sayt-0/main/cards/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayt-0/Sayt-0/main/cards/stats-light.svg" />
+    <img width="48%" alt="GitHub stats" src="https://raw.githubusercontent.com/Sayt-0/Sayt-0/main/cards/stats-dark.svg" />
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayt-0&theme=radical&hide_border=false" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1AF7C5&height=100&section=footer" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=1AF7C5&height=100&section=footer" />
 </div>
