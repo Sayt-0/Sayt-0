@@ -31,22 +31,42 @@ jobs:
 
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Generate stats card
+      - name: Generate stats card (dark)
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
-          options: username=Sayt-0&count_private=true&show_icons=true&theme=radical
-          path: cards/stats.svg
+          options: username=Sayt-0&count_private=true&show_icons=true&hide=stars&theme=radical
+          path: cards/stats-dark.svg
           token: ${{ secrets.GRS_TOKEN }}
           core_version: 2.2.1
           fail_on_error: true
 
-      - name: Generate top languages card
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=Sayt-0&count_private=true&show_icons=true&hide=stars&theme=default
+          path: cards/stats-light.svg
+          token: ${{ secrets.GRS_TOKEN }}
+          core_version: 2.2.1
+          fail_on_error: true
+
+      - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
           options: username=Sayt-0&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=radical
-          path: cards/top-langs.svg
+          path: cards/top-langs-dark.svg
+          token: ${{ secrets.GRS_TOKEN }}
+          core_version: 2.2.1
+          fail_on_error: true
+
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=Sayt-0&exclude_repo=github-readme-stats*&layout=donut&langs_count=8&theme=default
+          path: cards/top-langs-light.svg
           token: ${{ secrets.GRS_TOKEN }}
           core_version: 2.2.1
           fail_on_error: true
